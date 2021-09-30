@@ -1,5 +1,5 @@
 # Projekt aplikacji na przedmiot Hurtownie Danych
-## System zarządzania klubem piłkarskim
+## Prosty system zarządzania klubem piłkarskim
 
 - PHP
 - MySql (zbiór danych faker)
