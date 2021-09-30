@@ -1,0 +1,7 @@
+constraint
+ALTER TABLE player ADD CHECK (player_skill>0 && player_skill<=10)
+
+view
+CREATE VIEW napastnicy AS SELECT * FROM player WHERE position_id=4
+
+
